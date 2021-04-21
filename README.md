@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Groningen Rain BV
 
-You can use the [editor on GitHub](https://github.com/rainleander/groningenrain/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Groningen Rain BV is a developer relations, also known as DevRel, consultancy connecting with other developers and sharing knowledge and experience about open source projects and leading technologies at conferences and meetups, as well as in contributed articles, and on blogs, podcasts, and social media. This Groningen based company fosters a community inspired by open source projects and drives strategy around developer love and participation in the cloud native space and the larger open source industry. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Main Activities
 
-### Markdown
+* Build and execute evangelism programs that successfully deliver content, brand awareness, and community building
+* Lead the conversation around the latest technology advancements and best practices in the developer community
+* Support product and engineering efforts by sharing what you learn while engaging with the wider database community and tech communities at large
+* Contribute to the development of demos and sandbox environments leveraging upstream projects and branded products in order to educate developers and inform technical content
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Specialities
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rainleander/groningenrain/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Developer Relations, technical evangelism, community management, application development, public speaking, python, MySQL, LAMP stack, open source, collaboration, containers, Infrastructure as a Service, kubernetes, DevOps, online marketing, technical writing and project management.
