@@ -1,6 +1,6 @@
 # Groningen Rain BV
 
-Groningen Rain BV is a developer relations, also known as DevRel, consultancy connecting with other developers and sharing knowledge and experience about open source projects and leading technologies at conferences and meetups, as well as in contributed articles, and on blogs, podcasts, and social media. This Groningen based company fosters a community inspired by open source projects and drives strategy around developer love and participation in the cloud native space and the larger open source industry. 
+Groningen Rain BV is a developer relations consultancy connecting with developers, sharing knowledge and experience about open source projects and leading technologies in person and online via articles, blogs, podcasts, and social media. This Groningen based company founded by Rain Leander fosters a community inspired by open source projects and drives strategy around developer love and participation in the cloud native space and the larger open source industry. 
 
 ## Main Activities
 
@@ -11,4 +11,4 @@ Groningen Rain BV is a developer relations, also known as DevRel, consultancy co
 
 ### Specialities
 
-Developer Relations, technical evangelism, community management, application development, public speaking, python, MySQL, LAMP stack, open source, collaboration, containers, Infrastructure as a Service, kubernetes, DevOps, online marketing, technical writing and project management.
+Developer relations, technical evangelism, community management, application development, public speaking, python, MySQL, LAMP stack, open source, collaboration, containers, Infrastructure as a Service, kubernetes, DevOps, online marketing, technical writing and project management.
